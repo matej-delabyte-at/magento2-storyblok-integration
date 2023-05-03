@@ -1,13 +1,13 @@
 {
-    "name": "medialounge/magento2-storyblok-integration",
+    "name": "matejprepelic/magento2-storyblok-integration",
     "description": "Magento 2 extension to integrate Storyblok visual editor",
     "type": "magento2-module",
     "version": "2.2.0",
     "license": "GPL-3.0-only",
     "authors": [
         {
-            "name": "Javier Villanueva",
-            "email": "javier@medialounge.co.uk"
+            "name": "Matej Prepelic",
+            "email": "matej.prepelic@delabyte.at"
         }
     ],
     "keywords": [
